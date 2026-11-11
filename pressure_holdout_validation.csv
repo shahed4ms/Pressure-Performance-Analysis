@@ -1,0 +1,3 @@
+role,train_matches,test_matches,train_eligible,test_eligible,eligible_both_periods,spearman_common_players,pairwise_order_concordance,comparable_player_pairs,top10_overlap,train_top10_test_eligible,train_top10_mean_test_effect,train_top10_positive_test_effect_share
+batters,504,341,23,8,4,-0.8,0.16666666666666666,6,2,2,-35.1644751659346,0.5
+bowlers,504,341,52,22,12,-0.17482517482517482,0.4393939393939394,66,2,4,19.483187054791106,0.5
